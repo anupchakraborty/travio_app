@@ -1,0 +1,48 @@
+.about-travel{
+    display: flex;
+    flex-direction: row;
+    margin-top: 60px;
+    margin-bottom: 50px;
+}
+.left-sidebar{
+    width: 50%;
+    float: left;
+    overflow: hidden;
+}
+.left-sidebar img{
+    height: 550px;
+}
+.right-sidebar{
+    width: 50%;
+    float: right;
+}
+.travel-title h4 {
+    text-align: left;
+    font-size: 20px;
+    color: #767474;
+    margin-left: 20px;
+}
+
+.travel-title h2 {
+    color: #0a447e;
+    font-size: 45px;
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 25px;
+}
+
+.travel-body p {
+    text-align: left;
+    margin-left: 20px;
+    margin-top: 30px;
+    font-size: 20px;
+}
+
+.travel-body ul {
+    margin-top: 30px;
+}
+.travel-body ul li {
+    text-align: left;
+    font-size: 20px;
+    padding-bottom: 10px;
+}

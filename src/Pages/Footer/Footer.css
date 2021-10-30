@@ -1,0 +1,28 @@
+/*** 
+=============================================
+    Footer Bottom area style
+=============================================
+***/
+.footer-bottom-area {
+    background: #1d1d1d;
+    padding: 16px 0 16px;
+}
+.copyright-text {
+    padding: 7px 0;
+}
+.copyright-text p {
+    margin: 0;
+    color: #949494;
+    font-size: 14px;
+    font-weight: 300;
+    font-family: 'Poppins', sans-serif;
+    line-height: 26px;
+}
+.copyright-text p a{
+    font-weight: 500;
+    color: #00a5ea;
+    transition: all 500ms ease;
+}
+.copyright-text p a:hover{
+    color: #888888;
+}
